@@ -1,8 +1,5 @@
 # Ex03-Linux IPC - Pipes
 
-### Name: Srivatsan V
-### Register No: 212223110053
-### Date:
 
 ## AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
